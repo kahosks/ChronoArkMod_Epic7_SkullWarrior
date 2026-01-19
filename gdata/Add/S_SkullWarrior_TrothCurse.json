@@ -1,0 +1,23 @@
+{
+    "S_SkullWarrior_TrothCurse": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Charon/ShadowPriest_Thurible",
+        "Target": "self",
+        "Rare": true,
+        "UseAp": 0,
+        "Disposable": true,
+        "NotCount": true,
+        "User": "SkullWarrior",
+        "Name": "Troth's Curse",
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_TrothCurse"
+        ],
+        "Effect_Self": "null",
+        "Effect_Target": "null",
+        "Image_0": "S_SkullWarrior_TrothCurse\\S_SkullWarrior_TrothCurse_Image_0.png",
+        "Image_1": "S_SkullWarrior_TrothCurse\\S_SkullWarrior_TrothCurse_Image_1.png",
+        "Image_2": "S_SkullWarrior_TrothCurse\\S_SkullWarrior_TrothCurse_Image_2.png",
+        "Description": "Fills the Soul Thurible"
+    }
+}

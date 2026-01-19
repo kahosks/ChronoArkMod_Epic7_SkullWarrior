@@ -1,0 +1,8 @@
+{
+    "S_HPPotion": {
+        "_gdeSchema": "Skill",
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

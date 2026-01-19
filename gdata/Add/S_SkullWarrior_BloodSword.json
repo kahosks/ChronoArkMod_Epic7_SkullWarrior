@@ -1,0 +1,35 @@
+{
+    "S_SkullWarrior_BloodSword": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Hein/S_Hein_3",
+        "Target": "enemy",
+        "Name": "Blood Sword",
+        "LucyPartyDraw": "",
+        "UseAp": 1,
+        "Disposable": false,
+        "NoDrop": true,
+        "Effect_Target": "SE_T_S_SkullWarrior_BloodSword",
+        "Basic": false,
+        "Description": "Inflict Blood, disabling buff application for one turn.",
+        "Rare": false,
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Image_0": "S_SkullWarrior_BloodSword\\S_SkullWarrior_BloodSword_Image_0.png",
+        "Image_1": "S_SkullWarrior_BloodSword\\S_SkullWarrior_BloodSword_Image_1.png",
+        "Image_2": "S_SkullWarrior_BloodSword\\S_SkullWarrior_BloodSword_Image_2.png",
+        "SKillExtendedItem": [
+            
+        ],
+        "PlusSkillView": "S_SkullWarrior_DuskScythe"
+    }
+}

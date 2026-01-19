@@ -1,0 +1,13 @@
+{
+    "SE_T_S_SkullWarrior_GhastlyAssault": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "Buffs": [
+            "B_Taunt"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ],
+        "DMG_Per": 75
+    }
+}

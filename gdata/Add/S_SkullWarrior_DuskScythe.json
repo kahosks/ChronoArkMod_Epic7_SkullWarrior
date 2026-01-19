@@ -1,0 +1,22 @@
+{
+    "S_SkullWarrior_DuskScythe": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Charon/ShadowPriest_9_0",
+        "Target": "enemy",
+        "NoDrop": true,
+        "Name": "Dusk Scythe",
+        "UseAp": 1,
+        "Effect_Target": "SE_T_S_SkullWarrior_DuskScythe",
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_DuskScythe"
+        ],
+        "Description": "Deal double damage if target is Stunned.",
+        "Image_0": "S_SkullWarrior_DuskScythe\\S_SkullWarrior_DuskScythe_Image_0.png",
+        "Image_1": "S_SkullWarrior_DuskScythe\\S_SkullWarrior_DuskScythe_Image_1.png",
+        "Image_2": "S_SkullWarrior_DuskScythe\\S_SkullWarrior_DuskScythe_Image_2.png",
+        "Rare": false,
+        "Basic": false,
+        "PlusSkillView": "S_SkullWarrior_MudSword"
+    }
+}

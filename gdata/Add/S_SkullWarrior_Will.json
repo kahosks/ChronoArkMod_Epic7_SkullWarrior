@@ -1,0 +1,22 @@
+{
+    "S_SkullWarrior_Will": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/flare_lv1",
+        "Rare": true,
+        "Target": "all_ally",
+        "Name": "Will of Protection",
+        "User": "SkullWarrior",
+        "Description": "Grants Immunity to all allies for 3 turns, and barrier (&a) to self for 3 turns.",
+        "UseAp": 2,
+        "HealSkill": true,
+        "Disposable": true,
+        "Except": true,
+        "Effect_Target": "SE_T_S_SkullWarrior_Will",
+        "NoBasicSkill": false,
+        "Effect_Self": "SE_S_S_SkullWarrior_Will",
+        "Image_0": "S_SkullWarrior_Will\\S_SkullWarrior_Will_Image_0.png",
+        "Image_1": "S_SkullWarrior_Will\\S_SkullWarrior_Will_Image_1.png",
+        "Image_2": "S_SkullWarrior_Will\\S_SkullWarrior_Will_Image_2.png"
+    }
+}

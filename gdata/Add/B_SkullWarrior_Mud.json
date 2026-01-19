@@ -1,0 +1,15 @@
+{
+    "B_SkullWarrior_Mud": {
+        "_gdeSchema": "Buff",
+        "Cantdisable": false,
+        "ClassName": "Epic7_SkullWarrior.B_SkullWarrior_Mud",
+        "BuffTag": "Debuff",
+        "Name": "Mud",
+        "LifeTime": 1,
+        "MaxStack": 1,
+        "Debuff": true,
+        "TagPer": 100,
+        "Icon": "B_SkullWarrior_Mud\\B_SkullWarrior_Mud_Icon.png",
+        "Description": "Decrease Attack Power by half."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SE_T_S_SkullWarrior_MudSword": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 150,
+        "Buffs": [
+            "B_SkullWarrior_Mud"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ]
+    }
+}

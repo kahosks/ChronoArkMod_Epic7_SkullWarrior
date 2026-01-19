@@ -1,0 +1,7 @@
+{
+    "SE_T_S_SkullWarrior_XSlash": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 100
+    }
+}

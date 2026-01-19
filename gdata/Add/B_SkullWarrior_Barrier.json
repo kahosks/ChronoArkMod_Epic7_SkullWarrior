@@ -1,0 +1,12 @@
+{
+    "B_SkullWarrior_Barrier": {
+        "_gdeSchema": "Buff",
+        "ClassName": "",
+        "BuffTag": "null",
+        "Name": "Barrier",
+        "Description": "",
+        "Icon": "Image/Buff/Skill_Icon_Pack/emerald/emerald_03",
+        "LifeTime": 1,
+        "MaxStack": 1
+    }
+}

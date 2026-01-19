@@ -1,0 +1,12 @@
+{
+    "B_SkullWarrior_Protection": {
+        "_gdeSchema": "Buff",
+        "ClassName": "Epic7_SkullWarrior.B_SkullWarrior_Protection",
+        "BuffTag": "null",
+        "Name": "Protection",
+        "Icon": "B_SkullWarrior_Protection\\B_SkullWarrior_Protection_Icon.png",
+        "Description": "Every turn, creates a barrier of caster's MaxHP.",
+        "LifeTime": 3,
+        "Tick": "null"
+    }
+}

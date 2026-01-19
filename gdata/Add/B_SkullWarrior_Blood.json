@@ -1,0 +1,20 @@
+{
+    "B_SkullWarrior_Blood": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "Epic7_SkullWarrior.B_SkullWarrior_Blood",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Blood",
+        "LifeTime": 1,
+        "MaxStack": 1,
+        "Debuff": true,
+        "TagPer": 0,
+        "Description": "Prevents the application of buffs for one turn.",
+        "Tick": "null",
+        "Icon": "B_SkullWarrior_Blood\\B_SkullWarrior_Blood_Icon.png"
+    }
+}

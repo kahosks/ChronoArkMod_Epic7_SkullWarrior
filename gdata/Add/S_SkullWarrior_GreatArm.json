@@ -1,0 +1,33 @@
+{
+    "S_SkullWarrior_GreatArm": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/impact",
+        "Rare": true,
+        "Target": "Misc",
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Name": "Call of the Great Arm",
+        "Description": "Pick and draw a card from the discard pile.",
+        "UseAp": 1,
+        "User": "SkullWarrior",
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_GreatArm"
+        ],
+        "Image_0": "S_SkullWarrior_GreatArm\\S_SkullWarrior_GreatArm_Image_0.png",
+        "Image_1": "S_SkullWarrior_GreatArm\\S_SkullWarrior_GreatArm_Image_1.png",
+        "Image_2": "S_SkullWarrior_GreatArm\\S_SkullWarrior_GreatArm_Image_2.png"
+    }
+}

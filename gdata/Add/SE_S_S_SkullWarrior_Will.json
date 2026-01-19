@@ -1,0 +1,13 @@
+{
+    "SE_S_S_SkullWarrior_Will": {
+        "_gdeSchema": "SkillEffect",
+        "Buffs": [
+            "B_SkullWarrior_Protection",
+            "B_SkullWarrior_Barrier"
+        ],
+        "BuffPlusTagPer": [
+            0,
+            0
+        ]
+    }
+}

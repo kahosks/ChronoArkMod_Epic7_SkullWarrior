@@ -1,0 +1,34 @@
+{
+    "S_SkullWarrior_GhastlyAssault": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Public/Public_0",
+        "Target": "all_enemy",
+        "Name": "Ghastly Assault",
+        "Description": "Taunts all enemies and gain 1 charge of Soul Thurible.",
+        "UseAp": 1,
+        "User": "SkullWarrior",
+        "Effect_Target": "SE_T_S_SkullWarrior_GhastlyAssault",
+        "Image_0": "S_SkullWarrior_GhastlyAssault\\S_SkullWarrior_GhastlyAssault_Image_0.png",
+        "Image_1": "S_SkullWarrior_GhastlyAssault\\S_SkullWarrior_GhastlyAssault_Image_1.png",
+        "Image_2": "S_SkullWarrior_GhastlyAssault\\S_SkullWarrior_GhastlyAssault_Image_2.png",
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_GhastlyAssault"
+        ],
+        "Rare": false,
+        "NotCount": false,
+        "Basic": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

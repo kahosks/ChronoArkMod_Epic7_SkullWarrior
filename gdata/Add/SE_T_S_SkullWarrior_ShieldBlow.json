@@ -1,0 +1,7 @@
+{
+    "SE_T_S_SkullWarrior_ShieldBlow": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 100
+    }
+}

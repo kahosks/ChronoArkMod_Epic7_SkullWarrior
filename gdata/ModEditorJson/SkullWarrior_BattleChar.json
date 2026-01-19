@@ -1,0 +1,23 @@
+{
+    "myKey": "SkullWarrior",
+    "myField": "BattleChar",
+    "myValues": {
+        "path": "SkullWarrior\\SkullWarriorBattleChar.png",
+        "offsetMax": {
+            "x": 754.1663,
+            "y": 478.554626
+        },
+        "offsetMin": {
+            "x": -840.2387,
+            "y": -1204.42859
+        },
+        "pivot": {
+            "x": 0.526992,
+            "y": 0.715651
+        }
+    },
+    "MyChangeType": "BattleChar",
+    "myKeys": [
+        
+    ]
+}

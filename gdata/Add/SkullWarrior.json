@@ -1,0 +1,99 @@
+{
+    "SkullWarrior": {
+        "_gdeSchema": "Character",
+        "Role": "Role_DPS",
+        "PassiveClassName": "Epic7_SkullWarrior.P_SkullWarrior",
+        "PassiveUnlockLV1": true,
+        "name": "Skull Warrior",
+        "PassiveName": "Undead Attack",
+        "PassiveDes": "Gain a charge of Soul Thurible on kill, which can be used to create attacks with Brandish.  Increases the maximum charge to 10.\n\nAble to resist death by consuming charge.",
+        "MAXHP": {
+            "x": 15,
+            "y": 31
+        },
+        "FirstSkill": "S_SkullWarrior_Brandish",
+        "ATK": {
+            "x": 15,
+            "y": 40
+        },
+        "CRI": {
+            "x": 0,
+            "y": 0
+        },
+        "DODGE": {
+            "x": 0,
+            "y": 0
+        },
+        "DEF": {
+            "x": 0,
+            "y": 10
+        },
+        "HIT": {
+            "x": 100,
+            "y": 100
+        },
+        "RES_CC": {
+            "x": 0,
+            "y": 80
+        },
+        "RES_DEBUFF": {
+            "x": 0,
+            "y": 33
+        },
+        "RES_DOT": {
+            "x": 100,
+            "y": 200
+        },
+        "FixedBasicSkill": "S_SkullWarrior_Brandish",
+        "face": "SkullWarrior\\SkullWarriorBattleFace.png",
+        "CollectionSprite_Cover": "SkullWarrior\\SkullWarriorCollectionSprite_Cover.png",
+        "CollectionSprite_SkillFace": "SkullWarrior\\SkullWarriorCollectionSprite_SkillFace.png",
+        "StatView_Atk": 2,
+        "StatView_Sup": 1,
+        "StatView_Def": 1,
+        "StatView_Heal": 0,
+        "StatView_Debuff": 0,
+        "StatView_Difficult": 1,
+        "SelectInfo": "A kingslayer, or would be king.  Utilizes looted souls to strike at enemies.\n\nHas resistances to Weak and Pain, but suffers from skewed stats.",
+        "PassiveIcon": "SkullWarrior\\SkullWarriorPassiveIcon.png",
+        "Text_Battle_Idle": [
+            "Ooooooo..."
+        ],
+        "Text_Battle_AllyND": [
+            "Ratata."
+        ],
+        "Text_Battle_ND": [
+            "Click.  Click."
+        ],
+        "Text_Battle_Cri": [
+            "Click!"
+        ],
+        "Text_Battle_Start": [
+            "Kikiki!"
+        ],
+        "Text_Battle_Kill": [
+            "Click!  Click!"
+        ],
+        "Text_Battle_Healed": [
+            "Kikiki."
+        ],
+        "Text_Field_Idle": [
+            "Uuuuuuu..."
+        ],
+        "Text_PharosLeader": [
+            "Kikikiki...",
+            "Kikikiki!",
+            "Clickclickclickclick."
+        ],
+        "Text_Witch": [
+            "Uuu.",
+            "Ooo."
+        ],
+        "CampSD": [
+            "SkullWarrior\\SkullWarriorCampSD0.png",
+            "",
+            "",
+            ""
+        ]
+    }
+}

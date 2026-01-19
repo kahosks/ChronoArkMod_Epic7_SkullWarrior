@@ -1,0 +1,39 @@
+{
+    "BattleTestPreset2": {
+        "_gdeSchema": "Preset",
+        "Party": [
+            "SkullWarrior",
+            "LucyC"
+        ],
+        "PartyBasicSkill": [
+            "S_SkullWarrior_Brandish",
+            "S_LucyC_2"
+        ],
+        "PartySkills": [
+            [
+                "S_SkullWarrior_XSlash",
+                "S_SkullWarrior_ShieldBlow",
+                "S_SkullWarrior_Will",
+                "S_SkullWarrior_GreatArm",
+                "S_SkullWarrior_SpectralStomp",
+                "S_SkullWarrior_GhastlyAssault",
+                "S_SkullWarrior_DustReborn"
+            ],
+            [
+                "S_DebugSkill"
+            ]
+        ],
+        "PartyEquip": [
+            [
+                
+            ],
+            [
+                
+            ]
+        ],
+        "Level": 6,
+        "LucySkill": [
+            "S_Lucy_0"
+        ]
+    }
+}

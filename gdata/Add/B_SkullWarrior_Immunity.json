@@ -1,0 +1,11 @@
+{
+    "B_SkullWarrior_Immunity": {
+        "_gdeSchema": "Buff",
+        "ClassName": "Epic7_SkullWarrior.B_SkullWarrior_Immunity",
+        "BuffTag": "null",
+        "Icon": "B_SkullWarrior_Immunity\\B_SkullWarrior_Immunity_Icon.png",
+        "Name": "Immunity",
+        "Description": "Immune to Debuffs.",
+        "LifeTime": 3
+    }
+}

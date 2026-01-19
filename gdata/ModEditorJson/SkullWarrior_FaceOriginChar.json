@@ -1,0 +1,23 @@
+{
+    "myKey": "SkullWarrior",
+    "myField": "FaceOriginChar",
+    "myValues": {
+        "path": "SkullWarrior\\SkullWarriorFaceOriginChar.png",
+        "pivot": {
+            "x": 0.514406145,
+            "y": 0.7658472
+        },
+        "offsetMin": {
+            "x": -679.2279,
+            "y": -1070.58728
+        },
+        "offsetMax": {
+            "x": 638.462158,
+            "y": 320.307861
+        }
+    },
+    "MyChangeType": "FaceOriginChar",
+    "myKeys": [
+        
+    ]
+}

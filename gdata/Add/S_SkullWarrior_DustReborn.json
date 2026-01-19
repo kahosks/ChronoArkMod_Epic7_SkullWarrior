@@ -1,0 +1,23 @@
+{
+    "S_SkullWarrior_DustReborn": {
+        "_gdeSchema": "Skill",
+        "Category": "LucySkill",
+        "Particle": "Particle/Charon/ShadowPriest_1",
+        "Target": "Misc",
+        "Name": "From the Dust Reborn",
+        "Description": "Reshuffle all discarded cards into deck and draw one.",
+        "User": "LucyDraw",
+        "LucyPartyDraw": "SkullWarrior",
+        "NotCount": false,
+        "Disposable": false,
+        "UseAp": 1,
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_DustReborn"
+        ],
+        "Image_0": "S_SkullWarrior_DustReborn\\S_SkullWarrior_DustReborn_Image_0.png",
+        "Image_1": "S_SkullWarrior_DustReborn\\S_SkullWarrior_DustReborn_Image_1.png",
+        "Image_2": "S_SkullWarrior_DustReborn\\S_SkullWarrior_DustReborn_Image_2.png",
+        "Rare": false,
+        "Basic": false
+    }
+}

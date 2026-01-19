@@ -1,0 +1,13 @@
+{
+    "SE_T_S_SkullWarrior_BloodSword": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 150,
+        "Buffs": [
+            "B_SkullWarrior_Blood"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ]
+    }
+}

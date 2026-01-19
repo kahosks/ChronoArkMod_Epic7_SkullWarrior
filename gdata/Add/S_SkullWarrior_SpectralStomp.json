@@ -1,0 +1,33 @@
+{
+    "S_SkullWarrior_SpectralStomp": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/impact",
+        "Rare": false,
+        "Target": "Misc",
+        "NotCount": true,
+        "Basic": false,
+        "Name": "Spectral Stomp",
+        "UseAp": 0,
+        "User": "SkullWarrior",
+        "Description": "Draw the top card of the discard pile.",
+        "Image_0": "S_SkullWarrior_SpectralStomp\\S_SkullWarrior_SpectralStomp_Image_0.png",
+        "Image_1": "S_SkullWarrior_SpectralStomp\\S_SkullWarrior_SpectralStomp_Image_1.png",
+        "Image_2": "S_SkullWarrior_SpectralStomp\\S_SkullWarrior_SpectralStomp_Image_2.png",
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "SkillExtended": [
+            "Epic7_SkullWarrior.S_SkullWarrior_SpectralStomp"
+        ]
+    }
+}

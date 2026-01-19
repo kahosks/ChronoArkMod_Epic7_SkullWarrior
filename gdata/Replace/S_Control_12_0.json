@@ -1,0 +1,9 @@
+{
+    "S_Control_12_0": {
+        "_gdeSchema": "Skill",
+        "Rare": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "Except": false
+    }
+}
